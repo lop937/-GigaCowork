@@ -1,0 +1,13 @@
+.venv/
+gen1/
+gen2/
+gen3/
+__pycache__/
+*.pyc
+*.pyo
+out_agent/Результат_*.xlsx
+out_agent/out_agent/
+out_A/run*/Результат_*.xlsx
+out_B/run*/Результат_*.xlsx
+.DS_Store
+Thumbs.db
